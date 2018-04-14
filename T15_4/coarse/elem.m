@@ -1,7 +1,7 @@
 %10 éléments, Force = -15900000N
 ele5 = 1.469999E+04;
 nb5 = 44129;
-%8 éléments, Force = 
+%8 éléments, Force = -16400000N
 ele6 = 1.56967104E+04;
 nb6 = 30773
 %8 éléments, Force = -16600000N
