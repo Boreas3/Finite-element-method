@@ -1,0 +1,2 @@
+INPUT
+.FIN 1
