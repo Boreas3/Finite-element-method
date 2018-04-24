@@ -1,0 +1,1 @@
+même aire de structure 
