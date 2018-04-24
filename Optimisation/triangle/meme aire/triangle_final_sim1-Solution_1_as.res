@@ -45,7 +45,7 @@
 
 
 
- Start of analysis : APR 23 2018 21:03:45
+ Start of analysis : APR 24 2018 21:55:12
  On the computer   : PC-Bertrand
  Using O/S         : Win NT 6.2 64 bits
  For user          : bertrand
@@ -60,9 +60,9 @@
  ===============================================================================
  Status of the DB            : "triangle_final_sim1-Solution_1"
  ================
- DB created by BACON for bertrand (APR 23 2018 21:03:44)
- modified   by BACON for bertrand (APR 23 2018 21:03:44)
- modified   by ASEF for bertrand (APR 23 2018 21:03:45)
+ DB created by BACON for bertrand (APR 24 2018 21:55:11)
+ modified   by BACON for bertrand (APR 24 2018 21:55:11)
+ modified   by ASEF for bertrand (APR 24 2018 21:55:12)
  Release                     :   18.1- 1
  DB file name                : "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\triangle\aire\triangle_final_sim1-Solution_1.sdb"
  DB size                     :         844799 (Max=       262257599)
@@ -86,7 +86,7 @@
 
  ******************************************
  *                                        *
- * YOUR SAMCEF KEY EXPIRES IN      7 days *
+ * YOUR SAMCEF KEY EXPIRES IN      6 days *
  *                                        *
  ******************************************
 
@@ -292,19 +292,19 @@
    UNIT  FILE                                        NUMBER OF 1 MEGABYTES BLOCK
 
     18   C... tie\triangle\aire\triangle_final_sim1-Solution_1_as.u18         14
-     1   C... on_1000009308.dir\triangle_final_sim1-Solution_1_as.w01          1
-     4   C... ution_1000009308.dir\triangle_final_sim1-Solution_1.u04         21
-     8   C... on_1000009308.dir\triangle_final_sim1-Solution_1_as.w08          6
-     9   C... ution_1000009308.dir\triangle_final_sim1-Solution_1.u09          1
-    10   C... on_1000009308.dir\triangle_final_sim1-Solution_1_as.w10          1
-    11   C... ution_1000009308.dir\triangle_final_sim1-Solution_1.u11          5
-    13   C... ution_1000009308.dir\triangle_final_sim1-Solution_1.u13          1
-    14   C... on_1000009308.dir\triangle_final_sim1-Solution_1_as.w14          1
-    52   C... ution_1000009308.dir\triangle_final_sim1-Solution_1.u52          1
+     1   C... on_1000016416.dir\triangle_final_sim1-Solution_1_as.w01          1
+     4   C... ution_1000016416.dir\triangle_final_sim1-Solution_1.u04         21
+     8   C... on_1000016416.dir\triangle_final_sim1-Solution_1_as.w08          6
+     9   C... ution_1000016416.dir\triangle_final_sim1-Solution_1.u09          1
+    10   C... on_1000016416.dir\triangle_final_sim1-Solution_1_as.w10          1
+    11   C... ution_1000016416.dir\triangle_final_sim1-Solution_1.u11          5
+    13   C... ution_1000016416.dir\triangle_final_sim1-Solution_1.u13          1
+    14   C... on_1000016416.dir\triangle_final_sim1-Solution_1_as.w14          1
+    52   C... ution_1000016416.dir\triangle_final_sim1-Solution_1.u52          1
 
          ESTIMATIONS FOR BCSLIB SOLVER
-     2   C... on_1000009308.dir\triangle_final_sim1-Solution_1_as.w02          3
-     3   C... on_1000009308.dir\triangle_final_sim1-Solution_1_as.w03          2
+     2   C... on_1000016416.dir\triangle_final_sim1-Solution_1_as.w02          3
+     3   C... on_1000016416.dir\triangle_final_sim1-Solution_1_as.w03          2
 
 
  SUMMARY OF DISK SPACE USAGE
@@ -314,12 +314,12 @@
                                 TOTAL           FREE        ALLOCATED BY SAMCEF
  -------------------------------------------------------------------------------
 
-    C:\                       460440.          41107.      >            57 OK
+    C:\                       460440.          38735.      >            57 OK
 
  -------------------------------------------------------------------------------
 
 0RECORD NO   8  WRITTEN IN STORAGE FILE NO  18
-  CPU=  0 H  0 Min  1.14 Sec.     Elapsed=  0 H  0 Min  2.00 Sec.     R= 57.0%
+  CPU=  0 H  0 Min  0.94 Sec.     Elapsed=  0 H  0 Min  2.00 Sec.     R= 46.9%
 1
 
  MEMORY ZONE AVAILABLE FOR THE DB :                             104800000 WORDS ( 80.0% OF TOTAL ZONE)
@@ -373,7 +373,7 @@
 
  RECORD NO   9  WRITTEN IN STORAGE FILE NO  18
  END OF THE GENERATION OF ELEMENTS
-  CPU=  0 H  0 Min  1.84 Sec.     Elapsed=  0 H  0 Min  4.00 Sec.     R= 46.1%
+  CPU=  0 H  0 Min  1.38 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 45.8%
 
  MEMORY ZONE AVAILABLE FOR THE DB :                             104800000 WORDS ( 80.0% OF TOTAL ZONE)
  WORKING MEMORY ZONE AVAILABLE    :                              26190000 WORDS
@@ -389,14 +389,14 @@
 
        177 FIXATION(S) ISSUING FROM THE DATA ANALYSIS
          0 NEW FIXATION(S) ISSUING FROM THE DIAGONAL INSPECTION
-  CPU=  0 H  0 Min  1.88 Sec.     Elapsed=  0 H  0 Min  4.00 Sec.     R= 46.9%
+  CPU=  0 H  0 Min  1.39 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 46.4%
 
  RESOLUTION BY SPARSE SOLVER
  ===========================
 
 
  Time before the resolution
-  CPU=  0 H  0 Min  1.92 Sec.     Elapsed=  0 H  0 Min  4.00 Sec.     R= 48.0%
+  CPU=  0 H  0 Min  1.42 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 47.4%
 
  Work space available for bcslib                             26090624
  Work space bcslib, minimum 1                                  420037
@@ -405,7 +405,7 @@
  Work space bcslib incore factorization                       2774801
 
  Time after the resolution
-  CPU=  0 H  0 Min  2.30 Sec.     Elapsed=  0 H  0 Min  5.00 Sec.     R= 45.9%
+  CPU=  0 H  0 Min  1.72 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 57.3%
 
  ===========================================================
  = BCSLIB-EXT Release 4.1     ( 15 Nov 2001 )              =
@@ -436,14 +436,14 @@
      factorization update panel size         =              64
      solution block size                     =               8
 
-     time (in seconds) for structure input   =        0.078125
-     time (in seconds) for ordering          =        0.171875
-     time (in seconds) for symbolic factor   =        0.000000
+     time (in seconds) for structure input   =        0.046875
+     time (in seconds) for ordering          =        0.093750
+     time (in seconds) for symbolic factor   =        0.015625
      time (in seconds) for value input       =        0.046875
 
      number of cpus used for factor & solve  =               1
-     time (in seconds) for numeric factor    =        0.062500
-     computational rate (mflops) for factor  =     3263.837488
+     time (in seconds) for numeric factor    =        0.078125
+     computational rate (mflops) for factor  =     2611.069990
      condition number estimate               =      0.0000D+00
 
      time (in seconds) for numeric solve     =        0.015625
@@ -456,7 +456,7 @@
                                 3.           1.16          2.91
 
  END OF THE STIFFNESS MATRIX CONDENSATION
-  CPU=  0 H  0 Min  2.30 Sec.     Elapsed=  0 H  0 Min  5.00 Sec.     R= 45.9%
+  CPU=  0 H  0 Min  1.72 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 57.3%
 
  LOAD CASE NO        1                    TOTAL POTENTIAL ENERGY   1.066364E+04
  ---------------------                    ----------------------
@@ -473,21 +473,21 @@
  **********************************************************************
 
  END OF DISPLACEMENT STORAGE
-  CPU=  0 H  0 Min  2.34 Sec.     Elapsed=  0 H  0 Min  5.00 Sec.     R= 46.9%
+  CPU=  0 H  0 Min  1.75 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 58.3%
 
  MEMORY ZONE AVAILABLE FOR THE DB :                             104800000 WORDS ( 80.0% OF TOTAL ZONE)
  WORKING MEMORY ZONE AVAILABLE    :                              26190000 WORDS
 
 
  END OF STRESS STORAGE ON U18 FILE
-  CPU=  0 H  0 Min  2.58 Sec.     Elapsed=  0 H  0 Min  5.00 Sec.     R= 51.6%
+  CPU=  0 H  0 Min  1.89 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 63.0%
 
  ===============================================================================
  Status of the DB            : "triangle_final_sim1-Solution_1"
  ================
- DB created by BACON for bertrand (APR 23 2018 21:03:44)
- modified   by BACON for bertrand (APR 23 2018 21:03:44)
- modified   by ASEF for bertrand (APR 23 2018 21:03:45)
+ DB created by BACON for bertrand (APR 24 2018 21:55:11)
+ modified   by BACON for bertrand (APR 24 2018 21:55:11)
+ modified   by ASEF for bertrand (APR 24 2018 21:55:12)
  Release                     :   18.1- 1
  DB file name                : "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\triangle\aire\triangle_final_sim1-Solution_1.sdb"
  DB size                     :        1029599 (Max=       262257599)
@@ -514,25 +514,25 @@
  File size statistics
  File name                                                            Size
  -------------------------------------------------------------------------------
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w01      318056 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w03     1164384 Bytes
- t... lution_1000009308.dir\triangle_final_sim1-Solution_1.u04     7648392 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w08     4688736 Bytes
- t... lution_1000009308.dir\triangle_final_sim1-Solution_1.u09      321520 Bytes
- t... lution_1000009308.dir\triangle_final_sim1-Solution_1.u11     4403608 Bytes
- t... lution_1000009308.dir\triangle_final_sim1-Solution_1.u13      901336 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w14      477096 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w01      318056 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w03     1164384 Bytes
+ t... lution_1000016416.dir\triangle_final_sim1-Solution_1.u04     7648392 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w08     4688736 Bytes
+ t... lution_1000016416.dir\triangle_final_sim1-Solution_1.u09      321520 Bytes
+ t... lution_1000016416.dir\triangle_final_sim1-Solution_1.u11     4403608 Bytes
+ t... lution_1000016416.dir\triangle_final_sim1-Solution_1.u13      901336 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w14      477096 Bytes
  triangle_final_sim1-Solution_1_as.u18                            11170752 Bytes
  C:\PROGRA~1\Siemens\NX12~1.0\SIMULA~1\samcef\Exec\pilote.dat       189154 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w41     1613208 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w42     2380464 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w43       13392 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w44     2380464 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w41     1613208 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w42     2380464 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w43       13392 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w44     2380464 Bytes
  C...  partie\triangle\aire\triangle_final_sim1-Solution_1.sdb     7288088 Bytes
- t... lution_1000009308.dir\triangle_final_sim1-Solution_1.u50          48 Bytes
- t... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w51      978720 Bytes
- t... lution_1000009308.dir\triangle_final_sim1-Solution_1.u52      163840 Bytes
+ t... lution_1000016416.dir\triangle_final_sim1-Solution_1.u50          48 Bytes
+ t... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w51      978720 Bytes
+ t... lution_1000016416.dir\triangle_final_sim1-Solution_1.u52      163840 Bytes
  triangle_final_sim1-Solution_1.sam                                2394288 Bytes
- C... ion_1000009308.dir\triangle_final_sim1-Solution_1_as.w80     1056000 Bytes
+ C... ion_1000016416.dir\triangle_final_sim1-Solution_1_as.w80     1056000 Bytes
  C:\PROGRA~1\Siemens\NX12~1.0\SIMULA~1\samcef\Exec\samcef.proc       84311 Bytes
  -------------------------------------------------------------------------------
