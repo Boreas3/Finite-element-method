@@ -45,7 +45,7 @@
 
 
 
- Start of analysis : APR 23 2018 18:51:58
+ Start of analysis : APR 23 2018 21:00:54
  On the computer   : PC-Bertrand
  Using O/S         : Win NT 6.2 64 bits
  For user          : bertrand
@@ -53,28 +53,28 @@
 
 1
 
- MEMORY ZONE AVAILABLE FOR THE DB :                                852000 WORDS (  0.7% OF TOTAL ZONE)
- WORKING MEMORY ZONE AVAILABLE    :                             130148000 WORDS
+ MEMORY ZONE AVAILABLE FOR THE DB :                               1202000 WORDS (  0.9% OF TOTAL ZONE)
+ WORKING MEMORY ZONE AVAILABLE    :                             129798000 WORDS
 
 
  ===============================================================================
  Status of the DB            : "cercle_final_sim1-Solution_1"
  ================
- DB created by BACON for bertrand (APR 23 2018 18:51:58)
- modified   by BACON for bertrand (APR 23 2018 18:51:58)
- modified   by ASEF for bertrand (APR 23 2018 18:51:58)
+ DB created by BACON for bertrand (APR 23 2018 21:00:53)
+ modified   by BACON for bertrand (APR 23 2018 21:00:53)
+ modified   by ASEF for bertrand (APR 23 2018 21:00:54)
  Release                     :   18.1- 1
- DB file name                : "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\concentric\cercle_final_sim1-Solution_1.sdb"
- DB size                     :         851399 (Max=       262257599)
- Memory allocated            :         852000
+ DB file name                : "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\concentric\cercle\cercle_final_sim1-Solution_1.sdb"
+ DB size                     :        1201199 (Max=       262257599)
+ Memory allocated            :        1202000
  Size of the garbage         :              3 (  0.00% of the DB size)
  Relational level            :              0
- Object counter              :          13521
+ Object counter              :          23061
  Pagination flag             :        on (not yet triggered)
  Swap count                  :             40 page I/O on disk
- Used pages in memory        :            106 on             106
+ Used pages in memory        :            159 on             159
  Used records in swap file   :              0 on           39713
- Page alignment garbage      :            601 (  0.07% of the DB size)
+ Page alignment garbage      :            801 (  0.07% of the DB size)
  Archive length :            :              0
  Archive garbage :           :              0
  Archive loading endian swap :              0
@@ -93,10 +93,10 @@
 
 
 
-                             WORKSPACE MEMORY INCREASED TO :         17000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :         29000 WORDS
 
 
-                             WORKSPACE MEMORY INCREASED TO :        613000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :       1043000 WORDS
 
 
 
@@ -153,43 +153,43 @@
                              WORKSPACE MEMORY REDUCED   TO :             0 WORDS
 
 
-                             WORKSPACE MEMORY INCREASED TO :        613000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :       1043000 WORDS
 
 
-                             WORKSPACE MEMORY REDUCED   TO :        229000 WORDS
+                             WORKSPACE MEMORY REDUCED   TO :        391000 WORDS
 
 
 
           CHARACTERISTICS OF THIS PROBLEM
           ===============================
 
-          NUMBER OF NODES                               10215
-          MAXIMUM NODE NUMBER                           10215
+          NUMBER OF NODES                               17379
+          MAXIMUM NODE NUMBER                           17379
           MINIMUM NODE NUMBER                               1
           NUMBER OF INTERFACES                              0
           NUMBER OF LOCAL AXIS SYSTEMS                      0
-          TOTAL NUMBER OF ELEMENTS                       3300
-          MAXIMUM ELEMENT NUMBER                         3300
+          TOTAL NUMBER OF ELEMENTS                       5676
+          MAXIMUM ELEMENT NUMBER                         5676
           NUMBER OF GENERAL PROPERTY ENTRIES                0
           NUMBER OF ELEMENT PROPERTY ENTRIES                0
           NUMBER OF ELEMENT ATTRIBUTE ENTRIES               0
 
 
-          NUMBER OF ELEMENTS OF TYPE   15                3300
+          NUMBER OF ELEMENTS OF TYPE   15                5676
 
-                             WORKSPACE MEMORY INCREASED TO :        242000 WORDS
-
-
-                             WORKSPACE MEMORY INCREASED TO :        244000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :        414000 WORDS
 
 
-                             WORKSPACE MEMORY INCREASED TO :        294000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :        415000 WORDS
 
 
-                             WORKSPACE MEMORY INCREASED TO :        332000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :        501000 WORDS
 
 
-                             WORKSPACE MEMORY INCREASED TO :        362000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :        565000 WORDS
+
+
+                             WORKSPACE MEMORY INCREASED TO :        617000 WORDS
 
 
 
@@ -200,19 +200,19 @@
 
           SPARSE SOLVER
 
-                             WORKSPACE MEMORY INCREASED TO :     130137000 WORDS
+                             WORKSPACE MEMORY INCREASED TO :     129780000 WORDS
 
 
           CORE MEMORY ESTIMATION FOR BCSLIB SOLVER
           ----------------------------------------
 
-    WORK SPACE REQUIRED OUTSIDE SOLVER                                      122449
+    WORK SPACE REQUIRED OUTSIDE SOLVER                                      208201
 
-    WORK SPACE AVAILABLE INSIDE SOLVER                                   130563551
-    WORK SPACE REQUIRED FOR REORGANIZATION                                  430998
-    WORK SPACE REQUIRED FOR SYMBOLIC FACTORIZATION                          434309
-    WORK SPACE MINIMUM FOR OUT OF CORE FACTORIZATION                       1079927
-    WORK SPACE RECOMMENDED FOR IN CORE FACTORIZATION                       3040109
+    WORK SPACE AVAILABLE INSIDE SOLVER                                   130470799
+    WORK SPACE REQUIRED FOR REORGANIZATION                                  740868
+    WORK SPACE REQUIRED FOR SYMBOLIC FACTORIZATION                          729725
+    WORK SPACE MINIMUM FOR OUT OF CORE FACTORIZATION                       1820446
+    WORK SPACE RECOMMENDED FOR IN CORE FACTORIZATION                       5757406
 
 
  CHECK OF MATERIALS
@@ -249,12 +249,12 @@
 
 
  NUMBER OF SUBSTRUCTURES                        1
- NUMBER OF DEGREES OF FREEDOM               20277
- NUMBER OF RETAINED D.O.F.                  20277
- MAX. DIM. OF A SUBSTRUCTURE                20277
- MAX. NUMBER FOR A D.O.F.                   20430
- MAX. NUMBER FOR A NODE                     10215
- NUMBER OF ELEMENTS                          3300
+ NUMBER OF DEGREES OF FREEDOM               34497
+ NUMBER OF RETAINED D.O.F.                  34497
+ MAX. DIM. OF A SUBSTRUCTURE                34497
+ MAX. NUMBER FOR A D.O.F.                   34758
+ MAX. NUMBER FOR A NODE                     17379
+ NUMBER OF ELEMENTS                          5676
  MAX. DIM. OF AN ELEMENT                       16
  PRINTOUT OPTIONS                          0    0    0    0   -1   -1
  ELEMENT LOADING OPTION (IFO)                   1
@@ -277,10 +277,10 @@
  --------------------------------------------------
 
                                   G++M++K++U
- PROCESSING OF LOADS                  223775  WORDS
- MATRIX CONDENSATION                 3162558
+ PROCESSING OF LOADS                  380615  WORDS
+ MATRIX CONDENSATION                 5965607
  BACK SUBSTITUTION                         0
- PRINTOUT OF RESULTS                   41070
+ PRINTOUT OF RESULTS                   69726
 
 
  RECORD NO   1  WRITTEN IN STORAGE FILE NO  18
@@ -291,20 +291,20 @@
 
    UNIT  FILE                                        NUMBER OF 1 MEGABYTES BLOCK
 
-    18   C... e partie\concentric\cercle_final_sim1-Solution_1_as.u18         14
-     1   C... tion_1000008604.dir\cercle_final_sim1-Solution_1_as.w01          1
-     4   C... olution_1000008604.dir\cercle_final_sim1-Solution_1.u04         22
-     8   C... tion_1000008604.dir\cercle_final_sim1-Solution_1_as.w08          6
-     9   C... olution_1000008604.dir\cercle_final_sim1-Solution_1.u09          1
-    10   C... tion_1000008604.dir\cercle_final_sim1-Solution_1_as.w10          1
-    11   C... olution_1000008604.dir\cercle_final_sim1-Solution_1.u11          5
-    13   C... olution_1000008604.dir\cercle_final_sim1-Solution_1.u13          1
-    14   C... tion_1000008604.dir\cercle_final_sim1-Solution_1_as.w14          1
-    52   C... olution_1000008604.dir\cercle_final_sim1-Solution_1.u52          1
+    18   C... e\concentric\cercle\cercle_final_sim1-Solution_1_as.u18         24
+     1   C... tion_1000014488.dir\cercle_final_sim1-Solution_1_as.w01          1
+     4   C... olution_1000014488.dir\cercle_final_sim1-Solution_1.u04         37
+     8   C... tion_1000014488.dir\cercle_final_sim1-Solution_1_as.w08         10
+     9   C... olution_1000014488.dir\cercle_final_sim1-Solution_1.u09          1
+    10   C... tion_1000014488.dir\cercle_final_sim1-Solution_1_as.w10          1
+    11   C... olution_1000014488.dir\cercle_final_sim1-Solution_1.u11          8
+    13   C... olution_1000014488.dir\cercle_final_sim1-Solution_1.u13          2
+    14   C... tion_1000014488.dir\cercle_final_sim1-Solution_1_as.w14          1
+    52   C... olution_1000014488.dir\cercle_final_sim1-Solution_1.u52          1
 
          ESTIMATIONS FOR BCSLIB SOLVER
-     2   C... tion_1000008604.dir\cercle_final_sim1-Solution_1_as.w02          3
-     3   C... tion_1000008604.dir\cercle_final_sim1-Solution_1_as.w03          2
+     2   C... tion_1000014488.dir\cercle_final_sim1-Solution_1_as.w02          5
+     3   C... tion_1000014488.dir\cercle_final_sim1-Solution_1_as.w03          2
 
 
  SUMMARY OF DISK SPACE USAGE
@@ -314,25 +314,25 @@
                                 TOTAL           FREE        ALLOCATED BY SAMCEF
  -------------------------------------------------------------------------------
 
-    C:\                       460440.          41208.      >            58 OK
+    C:\                       460440.          41111.      >            93 OK
 
  -------------------------------------------------------------------------------
 
 0RECORD NO   8  WRITTEN IN STORAGE FILE NO  18
-  CPU=  0 H  0 Min  0.84 Sec.     Elapsed=  0 H  0 Min  2.00 Sec.     R= 42.2%
+  CPU=  0 H  0 Min  1.88 Sec.     Elapsed=  0 H  0 Min  4.00 Sec.     R= 46.9%
 1
 
  MEMORY ZONE AVAILABLE FOR THE DB :                             104800000 WORDS ( 80.0% OF TOTAL ZONE)
- WORKING MEMORY ZONE AVAILABLE    :                              26189000 WORDS
+ WORKING MEMORY ZONE AVAILABLE    :                              26182000 WORDS
 
-0AVAILABLE WORKSPACE FOR THE ELEMENT GENERATION STEP:   26189000  WORDS
+0AVAILABLE WORKSPACE FOR THE ELEMENT GENERATION STEP:   26182000  WORDS
 
  STRUCTURE CHARACTERISTICS
  =========================
  TOTAL LENGTH     0.000000E+00
- TOTAL AREA       6.108684E-01
- TOTAL VOLUME     6.108684E-01
- TOTAL MASS       4.825860E+03
+ TOTAL AREA       8.861704E-01
+ TOTAL VOLUME     8.861704E-01
+ TOTAL MASS       7.000746E+03
 
 
  INERTIA PROPERTIES PER ELEMENT GROUPS
@@ -340,122 +340,125 @@
           GROUP                         MASS                       INERTIA                                    C.O.G.
      NUMBER   NAME                                  ABOUT X       ABOUT Y       ABOUT Z       ABOUT X       ABOUT Y       ABOUT Z
  ===================================================================================================================================
-          1   2D_MAPPED_MESH(1)_0  4.8258601E+03 4.4907259E+03 4.4907259E+03 8.9814518E+03-8.6689923E-01 8.6689923E-01 0.0000000E+00
+          1   2D_MAPPED_MESH(1)_0  7.0007463E+03 5.9010911E+03 5.9010911E+03 1.1802182E+04-8.2264655E-01 8.2264655E-01 0.0000000E+00
 
 
  INERTIAL PROPERTIES OF THE STRUCTURE
  ====================================
 
- TOTAL MASS                     4.825860E+03
+ TOTAL MASS                     7.000746E+03
 
- CENTER-OF-MASS    :  XG       -8.668992E-01
-                      YG        8.668992E-01
+ CENTER-OF-MASS    :  XG       -8.226466E-01
+                      YG        8.226466E-01
                       ZG        0.000000E+00
 
 
  MOMENTS AND PRODUCTS OF INERTIA (IN STRUCTURAL AXIS, AT X=0, Y=0, Z=0)
 
-                     JXX        4.490726E+03
-                     JXY       -2.858885E+03
-                     JYY        4.490726E+03
+                     JXX        5.901091E+03
+                     JXY       -3.756751E+03
+                     JYY        5.901091E+03
                      JXZ        0.000000E+00
                      JYZ        0.000000E+00
-                     JZZ        8.981452E+03
+                     JZZ        1.180218E+04
 
 
  PRINCIPAL AXES AND MOMENTS OF INERTIA WITH RESPECT TO THE CENTER-OF-MASS
 
- AXIS 1:   0.000000E+00   0.000000E+00   1.000000E+00    INERTIA:   1.728046E+03
+ AXIS 1:   0.000000E+00   0.000000E+00   1.000000E+00    INERTIA:   2.326709E+03
 
- AXIS 2:   7.071068E-01  -7.071068E-01   0.000000E+00    INERTIA:   1.631841E+03
+ AXIS 2:   7.071068E-01  -7.071068E-01   0.000000E+00    INERTIA:   2.144340E+03
 
- AXIS 3:   7.071068E-01   7.071068E-01   0.000000E+00    INERTIA:   9.620528E+01
+ AXIS 3:   7.071068E-01   7.071068E-01   0.000000E+00    INERTIA:   1.823693E+02
 
  RECORD NO   9  WRITTEN IN STORAGE FILE NO  18
  END OF THE GENERATION OF ELEMENTS
-  CPU=  0 H  0 Min  1.23 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 41.1%
+  CPU=  0 H  0 Min  3.02 Sec.     Elapsed=  0 H  0 Min  7.00 Sec.     R= 43.1%
 
  MEMORY ZONE AVAILABLE FOR THE DB :                             104800000 WORDS ( 80.0% OF TOTAL ZONE)
- WORKING MEMORY ZONE AVAILABLE    :                              26189000 WORDS
+ WORKING MEMORY ZONE AVAILABLE    :                              26182000 WORDS
 
 
  CHECK OF THE DIAGONAL OF THE STIFFNESS MATRIX
  =============================================
 
- GREATEST DIAGONAL TERM   2.765922E+12   (NODE       4898        COMP.   2)
- LOWEST DIAGONAL TERM     1.686907E+11   (NODE       2592        COMP.   2)
+ GREATEST DIAGONAL TERM   3.390375E+12   (NODE       8444        COMP.   2)
+ LOWEST DIAGONAL TERM     1.722554E+11   (NODE       4410        COMP.   2)
 
- MEAN OF DIAGONAL TERMS   9.259184E+11
+ MEAN OF DIAGONAL TERMS   9.902950E+11
 
-       153 FIXATION(S) ISSUING FROM THE DATA ANALYSIS
+       261 FIXATION(S) ISSUING FROM THE DATA ANALYSIS
          0 NEW FIXATION(S) ISSUING FROM THE DIAGONAL INSPECTION
-  CPU=  0 H  0 Min  1.25 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 41.7%
+  CPU=  0 H  0 Min  3.05 Sec.     Elapsed=  0 H  0 Min  7.00 Sec.     R= 43.5%
 
  RESOLUTION BY SPARSE SOLVER
  ===========================
 
 
  Time before the resolution
-  CPU=  0 H  0 Min  1.28 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 42.7%
+  CPU=  0 H  0 Min  3.12 Sec.     Elapsed=  0 H  0 Min  7.00 Sec.     R= 44.6%
 
- Work space available for bcslib                             26086830
- Work space bcslib, minimum 1                                  430998
- Work space bcslib, minimum 2                                  434309
- Work space bcslib out-of-core factorization                  1079927
- Work space bcslib incore factorization                       2763736
+ Work space available for bcslib                             26008298
+ Work space bcslib, minimum 1                                  740868
+ Work space bcslib, minimum 2                                  729725
+ Work space bcslib out-of-core factorization                  1820446
+ Work space bcslib incore factorization                       5234006
 
  Time after the resolution
-  CPU=  0 H  0 Min  1.53 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 51.0%
+  CPU=  0 H  0 Min  3.66 Sec.     Elapsed=  0 H  0 Min  8.00 Sec.     R= 45.7%
 
  ===========================================================
  = BCSLIB-EXT Release 4.1     ( 15 Nov 2001 )              =
  = multifrontal statistics                                 =
  ===========================================================
 
-     number of equations                     =           20277
-     no. of nonzeroes in lower triangle of a =          299910
-     number of compressed nodes              =            9874
-     no. of compressed nonzeroes in l. tri.  =           69510
-     amount of workspace currently in use    =         2466144
-     max. amt. of workspace used             =        26086826
-     no. of nonzeroes in the factor l        =         1642693.
-     number of super nodes                   =            1366
-     number of compressed subscripts         =           73185
-     size of stack storage                   =           81592
-     maximum order of a front matrix         =             306
-     maximum size of a front matrix          =           46971
-     maximum size of a front trapezoid       =           30912
-     no. of floating point ops for factor    =      1.9020D+08
-     no. of floating point ops for solve     =      6.6722D+06
-     actual no. of nonzeroes in the factor l =         1642693.
-     actual number of compressed subscripts  =           73185
-     actual size of stack storage used       =          137445
+     number of equations                     =           34497
+     no. of nonzeroes in lower triangle of a =          514524
+     number of compressed nodes              =           16984
+     no. of compressed nonzeroes in l. tri.  =          121350
+     amount of workspace currently in use    =         4693405
+     max. amt. of workspace used             =        26008292
+     no. of nonzeroes in the factor l        =         3291783.
+     number of super nodes                   =            1933
+     number of compressed subscripts         =          119184
+     size of stack storage                   =          190693
+     maximum order of a front matrix         =             478
+     maximum size of a front matrix          =          114481
+     maximum size of a front trapezoid       =           52928
+     no. of floating point ops for factor    =      4.9640D+08
+     no. of floating point ops for solve     =      1.3340D+07
+     actual no. of nonzeroes in the factor l =         3291783.
+     actual number of compressed subscripts  =          119184
+     actual size of stack storage used       =          282938
      near zero pivot monitoring activated
      number of pivots adjusted               =              0.
      factorization panel size                =             128
      factorization update panel size         =              64
      solution block size                     =               8
 
-     time (in seconds) for structure input   =        0.046875
-     time (in seconds) for ordering          =        0.078125
+     time (in seconds) for structure input   =        0.062500
+     time (in seconds) for ordering          =        0.203125
      time (in seconds) for symbolic factor   =        0.000000
-     time (in seconds) for value input       =        0.046875
+     time (in seconds) for value input       =        0.093750
 
      number of cpus used for factor & solve  =               1
-     time (in seconds) for numeric factor    =        0.078125
-     computational rate (mflops) for factor  =     2434.520461
+     time (in seconds) for numeric factor    =        0.140625
+     computational rate (mflops) for factor  =     3529.929045
      condition number estimate               =      0.0000D+00
+
+     time (in seconds) for numeric solve     =        0.015625
+     computational rate (mflops) for solve   =      853.735488
 
      i/o statistics:   unit number        length        amount
                                          (Mbytes)      (Mbytes)
                        -----------       --------      --------
 
-                                3.           1.17          2.93
+                                3.           1.91          4.77
 
  END OF THE STIFFNESS MATRIX CONDENSATION
-  CPU=  0 H  0 Min  1.53 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 51.0%
+  CPU=  0 H  0 Min  3.66 Sec.     Elapsed=  0 H  0 Min  8.00 Sec.     R= 45.7%
 
- LOAD CASE NO        1                    TOTAL POTENTIAL ENERGY   2.854829E+04
+ LOAD CASE NO        1                    TOTAL POTENTIAL ENERGY   1.089251E+04
  ---------------------                    ----------------------
 
 
@@ -463,47 +466,47 @@
 0RESULTANTS AT NODES
  -------------------
 0                         ALONG X          ALONG Y          ALONG Z
-0A) LOADS             0.000000E+00    -1.214734E+07     0.000000E+00
-0B) REACTIONS         3.781263E-05     1.214734E+07     0.000000E+00
+0A) LOADS             0.000000E+00    -1.216868E+07     0.000000E+00
+0B) REACTIONS        -9.453157E-06     1.216868E+07     0.000000E+00
 
 
  **********************************************************************
 
  END OF DISPLACEMENT STORAGE
-  CPU=  0 H  0 Min  1.56 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 52.1%
+  CPU=  0 H  0 Min  3.70 Sec.     Elapsed=  0 H  0 Min  8.00 Sec.     R= 46.3%
 
  MEMORY ZONE AVAILABLE FOR THE DB :                             104800000 WORDS ( 80.0% OF TOTAL ZONE)
- WORKING MEMORY ZONE AVAILABLE    :                              26189000 WORDS
+ WORKING MEMORY ZONE AVAILABLE    :                              26182000 WORDS
 
 
  END OF STRESS STORAGE ON U18 FILE
-  CPU=  0 H  0 Min  1.70 Sec.     Elapsed=  0 H  0 Min  3.00 Sec.     R= 56.8%
+  CPU=  0 H  0 Min  3.98 Sec.     Elapsed=  0 H  0 Min  8.00 Sec.     R= 49.8%
 
  ===============================================================================
  Status of the DB            : "cercle_final_sim1-Solution_1"
  ================
- DB created by BACON for bertrand (APR 23 2018 18:51:58)
- modified   by BACON for bertrand (APR 23 2018 18:51:58)
- modified   by ASEF for bertrand (APR 23 2018 18:51:58)
+ DB created by BACON for bertrand (APR 23 2018 21:00:53)
+ modified   by BACON for bertrand (APR 23 2018 21:00:53)
+ modified   by ASEF for bertrand (APR 23 2018 21:00:54)
  Release                     :   18.1- 1
- DB file name                : "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\concentric\cercle_final_sim1-Solution_1.sdb"
- DB size                     :        1042799 (Max=       262257599)
+ DB file name                : "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\concentric\cercle\cercle_final_sim1-Solution_1.sdb"
+ DB size                     :        1517999 (Max=       262257599)
  Memory allocated            :      104800000
  Size of the garbage         :              3 (  0.00% of the DB size)
  Relational level            :              0
- Object counter              :          13529
+ Object counter              :          23069
  Pagination flag             :        on (not yet triggered)
  Swap count                  :             40 page I/O on disk
- Used pages in memory        :            135 on           15855
+ Used pages in memory        :            207 on           15855
  Used records in swap file   :              0 on           39713
- Page alignment garbage      :           5440 (  0.52% of the DB size)
+ Page alignment garbage      :           5299 (  0.35% of the DB size)
  Archive length :            :              0
  Archive garbage :           :              0
  Archive loading endian swap :              0
  ===============================================================================
 
  SAVING AND CLOSING OF DATA BASE
- FILE "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\concentric\cercle_final_sim1-Solution_1.sdb"
+ FILE "C:\Users\bertrand\Documents\cours bac 3 inge\Q2\FEM\projet\2e partie\concentric\cercle\cercle_final_sim1-Solution_1.sdb"
 
 0DIAGNOSTICS:     0 WARNING(S),     0 ERROR(S)
 
@@ -511,25 +514,25 @@
  File size statistics
  File name                                                            Size
  -------------------------------------------------------------------------------
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w01      326920 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w03     1170976 Bytes
- c... Solution_1000008604.dir\cercle_final_sim1-Solution_1.u04     7840848 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w08     4810864 Bytes
- c... Solution_1000008604.dir\cercle_final_sim1-Solution_1.u09      330640 Bytes
- c... Solution_1000008604.dir\cercle_final_sim1-Solution_1.u11     4514416 Bytes
- c... Solution_1000008604.dir\cercle_final_sim1-Solution_1.u13      924016 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w14      490392 Bytes
- cercle_final_sim1-Solution_1_as.u18                              11460832 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w01      556168 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w03     1906960 Bytes
+ c... Solution_1000014488.dir\cercle_final_sim1-Solution_1.u04    13486224 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w08     8241600 Bytes
+ c... Solution_1000014488.dir\cercle_final_sim1-Solution_1.u09      562080 Bytes
+ c... Solution_1000014488.dir\cercle_final_sim1-Solution_1.u11     7764784 Bytes
+ c... Solution_1000014488.dir\cercle_final_sim1-Solution_1.u13     1589296 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w14      834264 Bytes
+ cercle_final_sim1-Solution_1_as.u18                              19615776 Bytes
  C:\PROGRA~1\Siemens\NX12~1.0\SIMULA~1\samcef\Exec\pilote.dat       189154 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w41     1658232 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w42     2442816 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w43       13392 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w44     2442816 Bytes
- C... et\2e partie\concentric\cercle_final_sim1-Solution_1.sdb     7393752 Bytes
- c... Solution_1000008604.dir\cercle_final_sim1-Solution_1.u50          48 Bytes
- c... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w51     1003344 Bytes
- c... Solution_1000008604.dir\cercle_final_sim1-Solution_1.u52      163840 Bytes
- cercle_final_sim1-Solution_1.sam                                  2456640 Bytes
- C... ution_1000008604.dir\cercle_final_sim1-Solution_1_as.w80     1056000 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w41     2819544 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w42     4168224 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w43       13392 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w44     4168224 Bytes
+ C... artie\concentric\cercle\cercle_final_sim1-Solution_1.sdb    11197656 Bytes
+ c... Solution_1000014488.dir\cercle_final_sim1-Solution_1.u50          48 Bytes
+ c... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w51     1725648 Bytes
+ c... Solution_1000014488.dir\cercle_final_sim1-Solution_1.u52      294912 Bytes
+ cercle_final_sim1-Solution_1.sam                                  4182048 Bytes
+ C... ution_1000014488.dir\cercle_final_sim1-Solution_1_as.w80     1056000 Bytes
  C:\PROGRA~1\Siemens\NX12~1.0\SIMULA~1\samcef\Exec\samcef.proc       84311 Bytes
  -------------------------------------------------------------------------------
